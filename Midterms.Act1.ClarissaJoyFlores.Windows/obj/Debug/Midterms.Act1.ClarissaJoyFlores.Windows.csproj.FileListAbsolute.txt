@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\bin\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.exe.config
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\bin\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.exe
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\bin\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.pdb
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.g.resources
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.exe
+C:\Users\VGD pc 2\source\repos\Midterms.Act1.ClarissaJoyFlores.Windows\obj\Debug\Midterms.Act1.ClarissaJoyFlores.Windows.pdb
